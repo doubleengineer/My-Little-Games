@@ -1,3 +1,3 @@
-# brick_breaker
+# brick_breaker_games
 
-A new Flutter project.
+A new and once Flutter project.
